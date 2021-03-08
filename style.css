@@ -1,0 +1,40 @@
+body {
+  color: #fff;
+  background-color: #C6CEFA;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+  font-weight: bold;
+  font-size: 200px;
+  line-height: 180px;
+  letter-spacing: -5px;
+  text-align: center;
+  text-shadow: #444 3px 3px 3px;
+}
+
+.center {
+  /* width: 60%; */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/*
+FAE8DA
+C47684
+EBD1EC
+FFB68C
+C7DAC7
+e5f8fc
+#FAFFC7
+D7EEFF
+CCF1FF
+E0D7FF
+FFCCE1
+#d7e2fa
+#b8d6f2
+#ddc3e0
+#edcce5
+#f5d7e2
+#f7e7de
+*/
