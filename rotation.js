@@ -21,7 +21,7 @@ backgrounds = [
 "#C6CEFA"
 ]
 
-words = ["beautiful", "fierce", "dazzling"]
+words = ["beautiful", "fierce", "dazzling", "radiant", "to die for", "lovely", "stunning"]
 
 function pre_loader() {
   javascript:document.getElementById('body').style.backgroundColor=randomSelection(backgrounds);
