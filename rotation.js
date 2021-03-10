@@ -23,6 +23,7 @@ backgrounds = [
 ];
 
 words = [
+  "a dreamer",
   "beautiful",
   "fierce",
   "dazzling",
