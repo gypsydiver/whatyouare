@@ -91,7 +91,7 @@ words = [
   "incommensurable",
   "uplifting",
   "clever",
-  "stardust",
+  "made of stardust",
   "everything",
   "the world to me",
 ];
