@@ -1,5 +1,6 @@
 window.onload = load;
-window.onclick = load;
+let touchEvent = "ontouchstart" in window ? "touchstart" : "click";
+window.addEventListener(touchEvent, load);
 
 backgrounds = [
   "#FAE8DA",
