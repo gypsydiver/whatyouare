@@ -106,5 +106,5 @@ function load() {
 }
 
 function randomSelection(collection) {
-  return collection[Math.floor(Math.random() * collection.length-1)];
+  return collection[Math.floor(Math.random() * (collection.length-1))];
 }
