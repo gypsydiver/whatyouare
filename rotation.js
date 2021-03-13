@@ -24,6 +24,7 @@ backgrounds = [
 ];
 
 words = [
+  "independent",
   "a dreamer",
   "beautiful",
   "fierce",
@@ -98,11 +99,10 @@ words = [
 ];
 
 function load() {
-  javascript: document.getElementById("body").style.backgroundColor = randomSelection(backgrounds);
-  javascript: document.getElementById("msg").innerText =
-    "You are " + randomSelection(words) + ".";
+  document.getElementById("body").style.backgroundColor = randomSelection(backgrounds);
+  document.getElementById("msg").innerText = "You are " + randomSelection(words) + ".";
 }
 
 function randomSelection(collection) {
-  return collection[Math.floor(Math.random() * collection.length)];
+  return collection[Math.floor(Math.random() * collection.length-1)];
 }
