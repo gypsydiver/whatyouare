@@ -24,6 +24,8 @@ backgrounds = [
 ];
 
 words = [
+  "unbound",
+  "ardent",
   "independent",
   "a dreamer",
   "beautiful",
