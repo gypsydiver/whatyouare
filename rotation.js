@@ -24,6 +24,7 @@ backgrounds = [
 ];
 
 words = [
+  "feisty",
   "unbreakable",
   "unbound",
   "ardent",
